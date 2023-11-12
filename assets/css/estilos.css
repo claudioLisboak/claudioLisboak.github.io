@@ -2,3 +2,9 @@
     width: 16rem;
     height: 16rem;
 }
+#portafolio .image-top {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size:70%;
+    background-position: center;
+  }
