@@ -1,6 +1,6 @@
 .img-thumbnail{
     width: 16rem;
-    height: 16rem;
+    height: 16rem;  
 }
 #portafolio .image-top {
     height: 200px;
@@ -10,4 +10,16 @@
   }
   body{
     font-family: 'Raleway', sans-serif;
+    color: rgb(60, 108, 5);
+  } 
+  section{
+    box-shadow: 0.5rem 0.5rem 0.1rem 0.1rem rgba(83, 169, 25, 0.2);
+    border: 1px solid white;
+    border-radius: 5%;
   }
+  header{
+    box-shadow: 0.5rem 0.5rem 0.1rem 0.1rem rgba(83, 169, 25, 0.2);
+    border: 1px solid white;
+
+  }
+  
